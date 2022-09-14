@@ -13,5 +13,5 @@ On the map, the diameter of the popup markers for each earthquake reflects the m
 #### Deliverable 2: Map of Major Earthquakes with magnitude greater than 4.5
 ![2](https://user-images.githubusercontent.com/100629325/190257065-c1f8d46f-06bc-4339-b198-6db81ddec7b7.jpg)
 
-#### Deliverable 3: An Additional Map (Dark View)
+#### Deliverable 3: An Additional Map (Third Map Style - Dark View)
 ![5](https://user-images.githubusercontent.com/100629325/190258547-e6592201-b13a-49bd-8c1a-27a87c4e2f88.jpg)
